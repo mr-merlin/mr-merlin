@@ -31,7 +31,7 @@
   
 
   ### About my working environment:
-  ![OS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  ![OS](https://img.shields.io/badge/NixOS-294172?style=for-the-badge&logo=nixos&logoColor=white)
   ![Second OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
   ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -49,7 +49,7 @@
 
   ### About my life setup:
   ![OS](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![OS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  ![OS](https://img.shields.io/badge/NixOS-294172?style=for-the-badge&logo=nixos&logoColor=white)
   ![SteamOS](https://img.shields.io/badge/Steam_OS-000000?style=for-the-badge&logo=steam&logoColor=white)
   
   ![CPU](https://img.shields.io/badge/AMD-Ryzen_7_3950X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
